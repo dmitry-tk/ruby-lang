@@ -24,13 +24,6 @@
 - [Design patterns - 1](https://github.com/nslocum/design-patterns-in-ruby)
 - [Design patterns - 2](https://bogdanvlviv.github.io/posts/ruby/patterns/design-patterns-in-ruby.html)
 
-
-### Books
-
-- [48 Specific Ways to Write Better Ruby](https://www.safaribooksonline.com/library/view/effective-ruby-48/9780133847086/ch01.html)
-- [Clean Ruby]()
-- 
-
 ### Other
 - [DCI in Ruby](http://dci-in-ruby.info/)
 - [JRuby](https://github.com/jruby/jruby/wiki/GettingStarted)
@@ -40,6 +33,11 @@
 - [Device + Omniauth](https://www.digitalocean.com/community/tutorials/how-to-configure-devise-and-omniauth-for-your-rails-application)
 - [The Secret to Rails OO Design](http://blog.steveklabnik.com/posts/2011-09-06-the-secret-to-rails-oo-design)
 - [Deploy with Mina (instead of Cap)](https://infinum.co/the-capsized-eight/faster-web-application-deployments-using-mina-instead-of-capistrano)
+
+### Books
+
+- [48 Specific Ways to Write Better Ruby](https://www.safaribooksonline.com/library/view/effective-ruby-48/9780133847086/ch01.html)
+- [Clean Ruby]()
 
 ### Cool gems
 
