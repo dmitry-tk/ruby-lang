@@ -1,5 +1,11 @@
 # Useful resourses about Ruby / Ruby on Rails
 
+### My Gists
+
+- [Checking permissions in Rails (CanCan gem)](https://gist.github.com/dmitry-tk/b08cabc603e66b86cf894a4f19e76e18)
+- [Handling errors in Rails with ActiveSupport](https://gist.github.com/dmitry-tk/3109b5a6029868a0515d5af089fd6ec2)
+- [Organizing lib directory with static services](https://gist.github.com/dmitry-tk/9d8cdd18b8cd5f283ff5538f11775c07)
+
 ### Articles
 
 - [What I learnt today from reading gems' code](https://blog.arkency.com/2017/06/what-i-learnt-today-from-reading-gems-code/)
@@ -18,6 +24,7 @@
 - [paper_trail - Track changes to your models' data](https://github.com/airblade/paper_trail)
 - [rolify - Role management](https://github.com/RolifyCommunity/rolify)
 - [money-rails - Integration of RubyMoney](https://github.com/RubyMoney/money-rails)
+- [HAML](https://github.com/indirect/haml-rails)
 
 ### Style guides
 
